@@ -8692,6 +8692,7 @@ Kunal Khallar - Learning to contribute :)
 - [JohanFG](https://github.com/JohanFG) - My first open-source contribution!
 - [Edward Barrios](https://github.com/edwardb1) @11/16/2026
 - [MD. SAIF SIAM](https://github.com/Siam007-ayuno)
+- [Ali Hasan](https://github.com/mdalih143) My First Contribution!
 - [Darsh Chouhan](https://github.com/chouhandarsh)
 [Vaishnavi Kumari](https://github.com/VaishnaviKumari-Ai) - My first open-source contribution!(17-11-2026)
 - [Mohammed Jamal](https://github.com/mj256x) - My first open-source contribution!

@@ -1,4 +1,4 @@
-
+- [Divyanshu Baghel](https://github.com/GIT-GITteRR) - Just a new dev , first open src contri , wanna do more :)
 - [Trisha Khajuria](https://github.com/ohathena)
 - [Jamel Edine Mrad](https://github.com/Zamoula) - sorry i'm late , i got lost in the path of life ^_^
 - [Ahen Ali](https://github.com/ahenali) - My first open source contribution
